@@ -1,0 +1,72 @@
+##########################
+# macOS
+##########################
+
+.DS_Store
+
+##########################
+# Python
+##########################
+
+__pycache__/
+
+*.py[cod]
+
+*.sqlite3
+
+*.egg-info/
+
+.venv/
+
+venv/
+
+.env
+
+.env.*
+
+##########################
+# Django
+
+media/
+
+staticfiles/
+
+##########################
+# Node
+
+node_modules/
+
+.next/
+
+out/
+
+dist/
+
+coverage/
+
+##########################
+# VSCode
+
+.vscode/settings.json
+
+##########################
+# JetBrains
+
+.idea/
+
+##########################
+# Docker
+
+*.log
+
+##########################
+# Testing
+
+.pytest_cache/
+
+.mypy_cache/
+
+##########################
+# Build
+
+build/
