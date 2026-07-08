@@ -1,0 +1,9 @@
+-r base.txt
+
+black
+ruff
+isort
+pytest
+pytest-django
+factory-boy
+ipython
